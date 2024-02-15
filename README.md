@@ -1,3 +1,2 @@
 # ecommerce
-Comlete this .Le
-ts do it
+Comlete this .Lets do it
